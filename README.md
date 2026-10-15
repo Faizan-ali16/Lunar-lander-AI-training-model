@@ -6,7 +6,7 @@ The video starts with the agent's first untrained attempt and goes up to clean l
 
 ## What I did
 
-I trained it three times with different rewards:
+I trained it twice with different rewards:
 
 | Run | Reward | Avg score | Flights over 200 | Steps |
 |---|---|---|---|---|
